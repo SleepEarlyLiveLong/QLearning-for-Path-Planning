@@ -91,7 +91,7 @@ The whole process can be described by a graph as follows:
 
 Here is how QLearning works for the Path Planning problem. What's more, here are some tips you need to know.
 
-- First, path planning for the larger 40*50 map is extremely time-consuming, one single experiment can take hundreds of seconds like that:
+- First, path planning for the larger map (40-row, 50-column) is extremely time-consuming, one single experiment can take hundreds of seconds like that:
 ![result](imgs/2.png)
 <center>Fig4 time consumed of one single experiment</center>
 
